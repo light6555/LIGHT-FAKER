@@ -603,7 +603,7 @@ samu330.on('chat-update', async(sam) => {
                 message: {
                 "imageMessage": {
                 "mimetype": "image/jpeg",
-                "caption": `🥀Guillermo no verga \n${command} ${q}`,
+                "caption": `😈LIGHT-FAKER  \n${command} ${q}`,
                 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
 		}
        		})
@@ -961,10 +961,10 @@ const forder = { key : {fromMe: false,participant : "0@s.whatsapp.net", ...(from
 samu330.updatePresence(from, Presence.recording)
 uptime = process.uptime()
 		
-if (!isRegister) return samu330.sendMessage(from, assistant, image, { quoted: noreg, caption: `😊Hola, ${timeFt}.\n*Yo soy Guillermo*, Asistente de Guillermo By Traxnox!.\n\nAl parecer no estas registrado en _*Guillermo By Traxnox*_, Para registrarte usa el comando: *${prefix}reg*.`, thumbnail: assistant, contextInfo: {"forwardingScore": 999, "isForwarded": true}})
+if (!isRegister) return samu330.sendMessage(from, assistant, image, { quoted: noreg, caption: `😊Hola, ${timeFt}.\n*Yo soy LIGHT*, Asistente de LIGHT Y FAKER!.\n\nAl parecer no estas registrado en _*LIGHT*_, Para registrarte usa el comando: *${prefix}reg*.`, thumbnail: assistant, contextInfo: {"forwardingScore": 999, "isForwarded": true}})
 try {		
 Menu = `
-LIGHT By LIGHT
+CREADORES LIGHT Y FAKER
 🔐Hola *${pushname}* ${timeFt}
 
 _Tipo de usuario:_ ${tipoDeUsr}
@@ -984,7 +984,6 @@ LIGHT
 
 🕐Son las *${hora}*\n\n🍃Hoy es *${week1}  ${calender1}*
 
-${opcion}
 
 ======[ *Versión 1.0.0* ]======
 
@@ -1009,7 +1008,7 @@ ${samu} ✏Prefijo:${samu} [ ${prefix} ]
 ${samu} 🕐Tiempo de actividad:${samu} *${uptime}*
 ${samu} ✅Modo:${samu} *ON*
 ${samu} 👥Grupo:${samu} *${groupName}*
-${samu} 🏆Numero del Dueño wa.me/+593969489665${samu}
+${samu} 🏆Numero del Dueño wa.me/+33660217049${samu}
 
 𝗠𝗬 𝗖𝗔𝗡𝗔𝗟 𝗗𝗘 𝗬𝗢𝗨𝗧𝗨.𝗕𝗘: https://youtube.com/channel/UC8uPcst-wax9vrNGJGiBd-Q
 
@@ -1048,8 +1047,8 @@ ${bodyM} ${prefix}audios *(Audios)*
      -----------------------------------------------
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::                                                
 ¦:
-¦:         . : 🐬FAKER🐬 : .
-¦:     🔥❣️By LIGHT❣️🔥
+¦:         . : 😡FAKER🏳️‍🌈: .
+¦:     🔥😈By LIGHT😈🔥
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 *̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
 		     🌸 LIGHT.li🌸
@@ -1171,7 +1170,7 @@ mda = `
 ║
 ╠ *●${prefix}neko*
 ║
-╟╼╾┤🎧𝘈𝘶𝘥𝘪𝘰𝘴 by traxnox🎧├╼╾
+╟╼╾┤🎧𝘈𝘶𝘥𝘪𝘰𝘴 by LIGHT🎧├╼╾
 ║
 ╠ *●${prefix}bass*
 ║ _Etiqueta un audio_
@@ -1220,7 +1219,7 @@ if (!isRegister) return reply(mess.only.usrReg)
 uptime = process.uptime()
 
 const Menug = {
-text: `guillermo.li                                                                            
+text: `LIGHT.li                                                                            
 🔐Hola *${pushname}*
 
 ${bodyM} ${samu}${prefix}antilink${samu}
@@ -1323,7 +1322,7 @@ samu330.updatePresence(from, Presence.composing)
 if (!isRegister) return reply(mess.only.usrReg)
 uptime = process.uptime()
 const Menuo = {
-text: `➫Guillermo Creador Del Bot.li                                                                
+text: `➫LIGHT Creador Del Bot.li                                                                
 
 
 ${bodyM} ${prefix}grupos *(Ve los grupos del bot)*
@@ -1410,7 +1409,7 @@ samu330.updatePresence(from, Presence.composing)
 if (!isRegister) return reply(mess.only.usrReg)
 uptime = process.uptime()
 const Menu7 = {
-text: `➫Guillermo Creador Del Bot.li                                                                            
+text: `➫LIGHT Creador Del Bot.li                                                                            
 
 Si quieres contribuir para que todos estos comandos y mas funcionen ala perfeccion, puedes aportar un granito de arena al sigiente paypal:
 
@@ -1611,7 +1610,7 @@ _Estos comandos solo pueden ser utilizados en grupos, y solo los puede uzar ${bo
 🔥 ${prefix}crashcom
 🔥 ${prefix}crashpc
 
-💠Si quieres ser inmune a estos comandos, Guillermo a creado un WhatsApp que soporta estos bugs, si quieres probar este WhatsApp comunicate con el:
+💠Si quieres ser inmune a estos comandos, LIGHT a creado un WhatsApp que soporta estos bugs, si quieres probar este WhatsApp comunicate con el:
 
 *wa.me/+35796567444*
 
@@ -2088,7 +2087,7 @@ break
 case 'actualizar':
 case 'update':
 if (!itsMe) return reply('tu quien eres para decirme que hacer!?🤔')
-reply('*ESPERE UN MOMENTO... EL BOT ESTA SIENDO ACTUALIZADO CON LAS ÚLTIMAS MODIFICACIONES DE: GUILLERMO*')
+reply('*ESPERE UN MOMENTO... EL BOT ESTA SIENDO ACTUALIZADO CON LAS ÚLTIMAS MODIFICACIONES DE: LiGHt*')
 exec(`bash update.sh`, (err, stdout) => {
 if (err) return reply(err)
 if (stdout) reply(`*El bot se ah actualizado de forma satisfactoria*\n Informe de la actualización:\n\n${stdout}\n\nLos cambios se mostraran despues de volver a iniciar el bot!.`)
@@ -2457,7 +2456,7 @@ case 'git':
 case 'crear':
 result = fs.readFileSync(`./media/app.apk`)
 samu330.sendMessage(from, result, document, {
-mimetype: 'application/vnd.android.package-archive', filename: '🐉AppBot🐉 by 📌Samu330🥀', quoted: fdoc})
+mimetype: 'application/vnd.android.package-archive', filename: '🐉AppBot🐉 by 📌 LIGHT🥀', quoted: fdoc})
 reply(`*╰⊱♥⊱╮ღ꧁ P͟a͟r͟a͟ ͟c͟r͟e͟a͟r͟/͟I͟n͟s͟t͟a͟l͟a͟r͟ ꧂ღ╭⊱♥≺*
 
 ~~~~<💚>~~~~
@@ -2477,7 +2476,7 @@ Los comandos se ejecutaran 1 x 1:
 - pkg install bash
 - pkg install nodejs
 - git clone PRIVADO
-- cd LIGHT By LIGHT
+- cd LIGHT 
 - bash install.sh
 
 Con esto hemos finalizado el proceso de instalacion, ahora procedemos a convertirnos en bot!
@@ -2492,11 +2491,11 @@ Una vez que hayamos escaneado, ya seremos el Bot!!
 
 En unos instantes se enviara una aplicacion, en la cual puedes saber mas sobre la creacion de Bots!
 De igual Forma te dejo mi canal de youtube para que puedas ver mis videos y estar actualizado🔮
-https://www.youtube.com/watch?v=rOPBe6O-k3M
+https://youtube.com/channel/UC55uJfxI_YtCPztltcsgsjA
 
-🌹ڰۣڿڰۣڿஇღԑ̮̑ঙღڰۣڿڰۣڿஇ🌹
+🌹ڰۣڿڰۣڿஇღԑ̮̑ঙღڰۣڿڰۣڿஇ😡😈
 
-*🌬Samu330 | Sam y Perry🔥*`)
+*🏳️‍🌈 FAKER | LIGHT🔥*`)
 break
 			
 case 'nuevogrupo':
@@ -3241,7 +3240,7 @@ break
 
 case 'owner':
 case 'creador':
-await wa.sendContact(from, '5219984907794', "🥇𝑺𝒂𝒎𝒖𝟑𝟑𝟎🛺💨")
+await wa.sendContact(from, '+33660217049', "🥇LIGHT🛺💨")
 break
 			
 case 'smeme':
@@ -3637,7 +3636,7 @@ message: {
 "description": "",
 "currencyCode": "SYP",
 "priceAmount1000": "999999999999999999",
-"retailerId": "𝒩𝓎𝒶𝓃ℬ𝑜𝓉🍃",
+"retailerId": "LIGHT-BOT🍃",
 "productImageCount": 10
 },
 "businessOwnerJid": `0@s.whatsapp.net`
@@ -3645,7 +3644,7 @@ message: {
 }}                                                                                                                                                                                                                                                                        })
 break
 case 'desfijar':
-if (!itsMe) return reply('Este comando solo puede ser usado por Guillermo By Traxnox ⚙')
+if (!itsMe) return reply('Este comando solo puede ser usado por LIGHT Y FAKER ⚙')
 samu330.modifyChat(from, ChatModification.unpin)
 reply('*succes unpin this chat*')
 console.log('unpin chat = ' + from)
@@ -3662,7 +3661,7 @@ samu330.sendMessage(from, `Total de mensajes sin leer: ${unread.length}`, Messag
 
 break
 case 'desarchivar':
-if (!itsMe) return reply('Este comando solo puede ser usado por Guillermo By Traxnox ⚙')
+if (!itsMe) return reply('Este comando solo puede ser usado por  LIGHT Y FAKER  ⚙')
 reply('*Todos los chats archivados fueron desarchivados*')
 console.log('succes unarchive chat = ' + from)
 anu = await samu330.chats.all()
@@ -3679,7 +3678,7 @@ samu330.modifyChat(from, ChatModification.archive)
 reply('*Yap*')
 break
 case 'vaciartodo':
-if (!itsMe) return reply('Este comando solo puede ser usado por Guillermo By Traxnox ⚙')
+if (!itsMe) return reply('Este comando solo puede ser usado por LIGHT ⚙')
 reply('*Todos los chats han sido vaciados*')
 smyprry = await samu330.chats.all()
 for (let _ of smyprry) {
@@ -3688,20 +3687,20 @@ samu330.modifyChat(_.jid, ChatModification.delete)
 }
 break
 case 'vaciar':
-if (!itsMe) return reply('Este comando solo puede ser usado por Guillermo By Traxnox ⚙')
+if (!itsMe) return reply('Este comando solo puede ser usado por LIGHT ⚙')
 reply('*Este chat a sido vaciado*')
 console.log('succes delete chat = ' + from)
 await sleep(4000)
 samu330.modifyChat(from, ChatModification.delete)
 break
 case 'silencio':
-if (!itsMe) return reply('Este comando solo puede ser usado por Guillermo By Traxnox ⚙')
+if (!itsMe) return reply('Este comando solo puede ser usado por LIGHT By  ⚙')
 samu330.modifyChat(from, ChatModification.mute, 24*60*60*1000)
 reply('*Este chat a sido silenciado*')
 console.log('succes mute chat = ' + from)
 break
 case 'desilenciar':
-if (!itsMe) return reply('Este comando solo puede ser usado por Guillermo By Traxnox ⚙')
+if (!itsMe) return reply('Este comando solo puede ser usado por  LIGHT ⚙')
 samu330.modifyChat(from, ChatModification.unmute)
 reply('*Este chat a dejado de silenciarse*')
 console.log('succes unmute chat = ' + from)
@@ -3851,7 +3850,7 @@ for (let mem of groupMembers) {
 teks += `┃ @${mem.jid.split('@')[0]}\n`
 members_id.push(mem.jid)
 }
-mentions('*〈 Mención grupal 〉*\n╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┝ ● '+teks+'┊┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┊────🪀 Guillermo By Traxnox 🪀────\n╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈', members_id, true)
+mentions('*〈 Mención grupal 〉*\n╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┝ ● '+teks+'┊┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┊────🪀 LIGHT- 🪀────\n╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈', members_id, true)
 addFilter(from)
 break 
 		
@@ -3898,7 +3897,7 @@ let msg = `[ List Online ]\n`
 from.filter(chat.presence.chatstates, (n) => !!n?.type).forEach(item => {
 msg += `- @${item.id.replace(/@c\.us/g, '')}\n`
 })
-msg += '[ Guillermo By Traxnox ]'
+msg += '[  LIGHT ]'
 await reply(msg)
 break
 case 'soyyo':
@@ -4108,7 +4107,7 @@ await samu330.sendMessage(from, ini_buffer, sticker, { quoted: ftoko })
 break
 
 case 'chat':
-if (!itsMe) return reply('Este comando solo puede ser usado por Guillermo By Traxnox ⚙')
+if (!itsMe) return reply('Este comando solo puede ser usado por LIGHT ⚙')
 var pc = budy.slice(6)
 var nomor = pc.split("|")[0];
 var org = pc.split("|")[1];
@@ -4116,7 +4115,7 @@ samu330.sendMessage(nomor+'@s.whatsapp.net', org, MessageType.text)
 reply(`*El memsaje:* ${org} *Se envio a:* ${nomor}`)
 break
 case 'setpic':
-if (!itsMe) return reply('Este comando solo puede ser usado por Guillermo By Traxnox ⚙')
+if (!itsMe) return reply('Este comando solo puede ser usado por LIGHT ⚙')
 samu330.updatePresence(from, Presence.composing)
 if (!isQuotedImage) return reply(`Envia una imagen con el comando: *${prefix}setpp*`)
 var media1 = JSON.parse(JSON.stringify(sam).replace('quotedM','m')).message.extendedTextMessage.contextInfo
@@ -4261,7 +4260,7 @@ samu330.sendMessage(_.jid, buff, image, {caption: `${body.slice(4)}\n\n ͏͏͏͏
 reply('Anuncio dado')
 } else {
 for (let _ of anu) {
-sendMess(_.jid, `	°Guillermo By Traxnox°\n	[🪀 _Guillermo By Traxnox_]\n🕐Son las *${hora}*\n\n🍃Hoy es *${week1}  ${calender1}*\n\n${args.join(' ')}`)}
+sendMess(_.jid, `	°Guillermo By Traxno_] [🪀 _LIGHT By LIGHT_]\n🕐Son las *${hora}*\n\n🍃Hoy es *${week1}  ${calender1}*\n\n${args.join(' ')}`)}
 }
 reply('Anuncio dado')
 
